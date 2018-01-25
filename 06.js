@@ -1,5 +1,5 @@
 var path = require('path');
-var modulo = require('./06b');
+var modulo = require('./06b'); // it's better to use english, development standard
 var carpeta = process.argv[2];
 var ext = process.argv[3];
 
